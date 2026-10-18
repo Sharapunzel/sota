@@ -1,0 +1,6 @@
+# Папки artifacts на любом уровне вложенности
+artifacts/
+
+# Виртуальное окружение Python
+.venv/
+venv/
